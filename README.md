@@ -1,5 +1,5 @@
-# DevOps Bootcamp (# for heading 1, ## H2, ###H3, - for bullet points, **for bold**, `for single line of code/command`
-- ``` for block of code ```
+# DevOps Bootcamp (# for heading 1, ## H2, ###H3, - for bullet points, ** for bold, `for single line of code/command
+-  for block of code ```
 
 
 ## Introduction to DevOps and why DevOps/benefits
